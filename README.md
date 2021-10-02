@@ -17,4 +17,4 @@
 </div>
   
   ##
-![Snake animation](https://github.com/rafaballerini/joao-noleto13/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/joao-noleto13/joao-noleto13/blob/output/github-contribution-grid-snake.svg)

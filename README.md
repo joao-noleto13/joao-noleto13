@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estudo analise e desenvolvimento de sistemas na faculdade Bandtec Digital School
 - 📒 Estou aprendendo atualmente js,css,
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 <div align="center">
   <a href="https://github.com/joao-noleto13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-noleto13&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/><br><br>

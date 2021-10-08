@@ -3,10 +3,11 @@
 - 🔭 Atualmente estudo analise e desenvolvimento de sistemas na faculdade Bandtec Digital School
 - 📒 Estou aprendendo atualmente js,css,
 - 😄 Pronomes: ele/dele
-<div align="center">
+- 
+ <div>
   <a href="https://github.com/joao-noleto13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-noleto13&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/><br><br>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-noleto13&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joao-noleto13&show_icons=true&theme=midinight-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-noleto13&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
   <div style="display: inline_block"><br>

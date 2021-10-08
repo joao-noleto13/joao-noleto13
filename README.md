@@ -15,8 +15,11 @@
   <img align="center" alt="jp-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rogerio-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="pantera negra" height="150" style="border-radius:50px;" src="https://3.bp.blogspot.com/-_Au9Q-oWYHI/WQpALeLRtBI/AAAAAAAC468/8UL9hDDr2dUeyJPV8lRVv_qGqidC51apACLcB/s320/p47.gif">
-</div>
   
-  ##
+</div>
+  <br>
+  <img align="center" alt="pantera negra" height="150" style="border-radius:50px;" src="https://3.bp.blogspot.com/-_Au9Q-oWYHI/WQpALeLRtBI/AAAAAAAC468/8UL9hDDr2dUeyJPV8lRVv_qGqidC51apACLcB/s320/p47.gif">
+<br>
+ 
+ ##
 ![Snake animation](https://github.com/joao-noleto13/joao-noleto13/blob/output/github-contribution-grid-snake.svg)

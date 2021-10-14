@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estudo analise e desenvolvimento de sistemas na faculdade Bandtec Digital School
 - 📒 Estou aprendendo atualmente js,css,
-- 😄 Pronomes: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/joao-noleto13">

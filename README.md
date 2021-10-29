@@ -19,7 +19,7 @@
   
 </div>
   <br>
-  <img align="center" alt="pantera negra" height="150" style="border-radius:50px;" src="https://3.bp.blogspot.com/-_Au9Q-oWYHI/WQpALeLRtBI/AAAAAAAC468/8UL9hDDr2dUeyJPV8lRVv_qGqidC51apACLcB/s320/p47.gif">
+  <img align="right"  alt="pantera negra" height="150" style="border-radius:50px;" src="https://3.bp.blogspot.com/-_Au9Q-oWYHI/WQpALeLRtBI/AAAAAAAC468/8UL9hDDr2dUeyJPV8lRVv_qGqidC51apACLcB/s320/p47.gif">
 <br>
  
  ##

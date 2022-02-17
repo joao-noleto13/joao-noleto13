@@ -1,6 +1,6 @@
 ## Olá ! Eu sou o João-Noleto13
 
-- 🔭 Atualmente estudo analise e desenvolvimento de sistemas na faculdade Bandtec Digital School
+- 🔭 Atualmente estudo analise e desenvolvimento de sistemas na faculdade São Paulo Tech School
 - 📒 Estou aprendendo atualmente js,css,mysql
 
 <div align="center">

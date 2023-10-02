@@ -1,7 +1,7 @@
 ## Olá ! Eu sou o João-Noleto13
 
 - 🔭 Atualmente estudo analise e desenvolvimento de sistemas na faculdade São Paulo Tech School
-- 📒 Estou aprendendo atualmente js,css,mysql
+- 📒 Estou aprendendo atualmente js,css,mysql e java
 
 <div align="center">
   <a href="https://github.com/joao-noleto13">
@@ -14,6 +14,7 @@
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="jp-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jp-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="jp-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/java-original.svg">  
   <img align="center" alt="jp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="joao-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   

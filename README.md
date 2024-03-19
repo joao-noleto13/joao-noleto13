@@ -1,7 +1,7 @@
 ## Olá ! Eu sou o João-Noleto13
 
-- 🔭 Atualmente estudo analise e desenvolvimento de sistemas na faculdade São Paulo Tech School
-- 📒 Estou aprendendo atualmente js,css,mysql e java
+- 🔭 Cursando análise e desenvolvimento de sistemas na faculdade São Paulo Tech School
+- 📒  js,css,mysql,java, python 
 
 <div align="center">
   <a href="https://github.com/joao-noleto13">

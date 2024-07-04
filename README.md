@@ -19,9 +19,7 @@
   <img align="center" alt="joao-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   
 </div>
-  <br>
-  <img align="right"  alt="pantera negra" height="150" style="border-radius:50px;" src="https://c.tenor.com/KpDCutyqru4AAAAC/kimetsu-no-yaiba-demon-slayer.gif">
-<br>
+
  
  ##
 ![Snake animation](https://github.com/joao-noleto13/joao-noleto13/blob/output/github-contribution-grid-snake.svg)

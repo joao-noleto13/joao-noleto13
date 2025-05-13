@@ -41,6 +41,7 @@
 
 ### 📈 Contribuições em forma de código:
 
+
 ![Snake animation](https://github.com/joao-noleto13/joao-noleto13/blob/output/github-contribution-grid-snake.svg)
 
 ---

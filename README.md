@@ -18,7 +18,7 @@
   <img align="center" alt="jp-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
   <img align="center" alt="jp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="joao-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="joao-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/.net-original.svg">
+  <img align="center" alt="joao-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/.net/.net-original.svg">
   
 </div>
 

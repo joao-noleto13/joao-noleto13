@@ -1,7 +1,8 @@
 ## Olá ! Eu sou o João-Noleto13
 
-- 🔭 Cursando análise e desenvolvimento de sistemas na faculdade São Paulo Tech School
-- 📒  js,css,mysql,java, python 
+- 🔭 Formado análise e desenvolvimento de sistemas na faculdade São Paulo Tech School
+- Cursando Pós-Graduação em IA para Devs na FIAP
+- 📒  js,css,mysql,java, python, .NET
 
 <div align="center">
   <a href="https://github.com/joao-noleto13">
@@ -17,6 +18,7 @@
   <img align="center" alt="jp-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
   <img align="center" alt="jp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="joao-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="joao-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/.net-original.svg">
   
 </div>
 

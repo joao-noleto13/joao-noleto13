@@ -21,7 +21,7 @@ pós-grad:    IA para Devs · FIAP (em andamento)
 empresa:     Banco Safra · Analista Jr. de TI
 foco:        Backend · Sistemas Financeiros · IA Aplicada
 missão:      Construir soluções que geram impacto real
-` `` 
+```
 
 > _"Código limpo não é escrito para máquinas — é escrito para as pessoas que virão depois de você."_
 
@@ -55,14 +55,11 @@ missão:      Construir soluções que geram impacto real
 ---
 
 ## 🤖 IA & Aprendizado Contínuo
-
-```
 🎓 Pós-graduação em IA para Devs · FIAP
 ├── Machine Learning aplicado ao desenvolvimento
 ├── LLMs, Prompt Engineering e AI Agents
 ├── IA generativa em sistemas de produção
 └── Integração de IA em soluções corporativas
-` ``
 
 ---
 

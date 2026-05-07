@@ -71,7 +71,7 @@ missão:      Construir soluções que geram impacto real
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-noleto13&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com/?user=joao-noleto13&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
 ---
